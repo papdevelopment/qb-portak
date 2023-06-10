@@ -9,7 +9,7 @@
 Setup;
 
 1;
-ensure sakasa-portak
+ensure qb-portak
 ensure mythic_progbar
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 We have finished step 1 of the process by assigning the start file to server.cfg or script.cfg,
