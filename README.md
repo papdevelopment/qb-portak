@@ -28,8 +28,10 @@ Add the following to qb-core\shared\items.lua;
 3;
 Attach the photos we provide in the file qb-portak\images.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Add it to qb-inventory\html\images.
+Add it to qb-inventory\html\images,
+
 Add it to lj-inventory\html\images.
+
 4;
 You can select the language from qb-portak\fxmanifest.lua.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -65,7 +67,8 @@ qb-core\shared\items.lua'ya aşağıdakileri ekleyiniz;
 3;
 qb-portak\images dosyasında verdiğimiz fotoları ekleyiniz.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-qb-inventory\html\images adresine ekleyiniz.
+qb-inventory\html\images adresine ekleyiniz,
+ 
 lj-inventory\html\images adresine ekleyiniz.
 
 4;
