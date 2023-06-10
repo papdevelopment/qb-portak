@@ -28,7 +28,9 @@ That's all for installation.
 
 
 
-[TR]
+<strong>[TR]</strong>
+
+
 Kurulum;
 1;
 ensure qb-portak
