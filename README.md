@@ -26,8 +26,15 @@ Add the following to qb-core\shared\items.lua;
     ['nutella'] 			     = {['name'] = 'nutella', 			  	            ['label'] = 'Nutella', 			        ['weight'] = 6, 		['type'] = 'item', 		['image'] = 'nutella.png', 	        ['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'I have to sell this....'},
 
 3;
-Add the photos we have given to qb-inventory\html\images file.
+Attach the photos we provide in the file qb-portak\images.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Add it to qb-inventory\html\images.
+Add it to lj-inventory\html\images.
+4;
+You can select the language from qb-portak\fxmanifest.lua.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/papdevelopment/qb-portak/assets/127118520/a45c23db-3faa-4889-aec6-97fbc187d442)
+
 
 That's all for installation.
 
@@ -56,8 +63,15 @@ qb-core\shared\items.lua'ya aşağıdakileri ekleyiniz;
     ['nutella'] 			     = {['name'] = 'nutella', 			  	            ['label'] = 'Nutella', 			        ['weight'] = 6, 		['type'] = 'item', 		['image'] = 'nutella.png', 	        ['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'bunu satmam gerek....'},
 
 3;
-qb-inventory\html\images dosyasına verdiğimiz fotoları ekleyiniz.
+qb-portak\images dosyasında verdiğimiz fotoları ekleyiniz.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+qb-inventory\html\images adresine ekleyiniz.
+lj-inventory\html\images adresine ekleyiniz.
+
+4;
+Dil Seçimini qb-portak\fxmanifest.lua Adresinden Seçebilirsiniz.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/papdevelopment/qb-portak/assets/127118520/37b78075-3e84-4113-b525-d63d8f1a5419)
 
 Kurulum bu kadar kolay gelsin.
 
