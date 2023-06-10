@@ -1,7 +1,9 @@
 # qb-portak
 
 
-[EN]
+<strong>[EN]</strong>
+
+
 Setup;
 1;
 ensure sakasa-portak
