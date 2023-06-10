@@ -61,4 +61,7 @@ qb-inventory\html\images dosyasına verdiğimiz fotoları ekleyiniz.
 
 Kurulum bu kadar kolay gelsin.
 
+![sakasatr com](https://github.com/papdevelopment/qb-portak/assets/127118520/67696232-ef5a-4205-8d35-cb37fb4b6aa8)
+
+
 
