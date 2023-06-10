@@ -5,6 +5,7 @@
 
 
 Setup;
+
 1;
 ensure sakasa-portak
 ensure mythic_progbar
@@ -32,6 +33,7 @@ That's all for installation.
 
 
 Kurulum;
+
 1;
 ensure qb-portak
 ensure mythic_progbar
