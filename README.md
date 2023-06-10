@@ -76,7 +76,7 @@ Dil Seçimini qb-portak\fxmanifest.lua Adresinden Seçebilirsiniz.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/papdevelopment/qb-portak/assets/127118520/37b78075-3e84-4113-b525-d63d8f1a5419)
 
-<h5>Kurulum bu kadar kolay gelsin.</h5>
+<strong>Kurulum bu kadar kolay gelsin.</strong>
 
 
 ![sakasatr com](https://github.com/papdevelopment/qb-portak/assets/127118520/67696232-ef5a-4205-8d35-cb37fb4b6aa8)
