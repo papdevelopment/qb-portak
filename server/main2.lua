@@ -1,7 +1,6 @@
 
 
 local QBCore = exports['qb-core']:GetCoreObject()
-TriggerEvent('QBCore:GetObject', function(obj) QBCore = obj end)
 
 
 -- NUTELLA SATMA (tavsiyem açma toptancı scriptine bağla orda satılsın)
