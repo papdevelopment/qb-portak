@@ -55,3 +55,10 @@ AddEventHandler("qb-pirates:portakaltopla", function()
                 Player.Functions.AddItem(Config.Topla1Item, Config.PortakTopla)
             end
     end)
+
+AddEventHandler('onResourceStart', function(resource)
+        if resource == GetCurrentResourceName() then
+            Citizen.Wait(5000)
+            print('[^2sakasa-portak^0] - ^1Started Version-2^0')
+        end
+    end)
