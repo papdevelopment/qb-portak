@@ -1,7 +1,6 @@
 
 
 local QBCore = exports['qb-core']:GetCoreObject()
-TriggerEvent('QBCore:GetObject', function(obj) QBCore = obj end)
 
 
 -- PORTAKAL SATMA (tavsiyem açma toptancı scriptine bağla orda satılsın)
