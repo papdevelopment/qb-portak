@@ -52,10 +52,3 @@ Config.Blips = { -- BLIPS
 
 }
 
-
-Config.NPC = {
-  -- vector4(244.64, 373.99, 105.74, 157.37),
-
-
-
-}
