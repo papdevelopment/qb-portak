@@ -201,15 +201,3 @@ Citizen.CreateThread(function()
 end)
 
 
-local NPC = Config.NPC
-Citizen.CreateThread(function()
-    RequestModel(GetHashKey("s_m_m_autoshop_01")) -- ped kodu
-    npc = CreatePed(1, GetHashKey("s_m_m_autoshop_01"), NPC.x, NPC.y, NPC.z -1, false, true) -- ped kodu ve kordinatı
-    SetEntityHeading(npc, NPC.w)
-    SetPedCombatAttributes(npc, 46, true)              
-    SetPedFleeAttributes(npc, 0, 0)              
-    SetBlockingOfNonTemporaryEvents(npc, true)
-    SetEntityAsMissionEntity(npc, true, true)
-    SetEntityInvincible(npc, true)
-    FreezeEntityPosition(npc, true)
-end)
