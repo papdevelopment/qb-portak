@@ -4,7 +4,7 @@ local QBCore = exports['qb-core']:GetCoreObject()
 
 
 
--- PORTAKAL SATMA
+--[[ PORTAKAL SATMA
 
 Citizen.CreateThread(function()
     while true do
@@ -55,7 +55,7 @@ function portakalsat()
             end
         end)
     end
-end
+end]]
 
 
 -- PORTAKAL ISLEME
