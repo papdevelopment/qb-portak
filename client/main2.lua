@@ -4,7 +4,7 @@ local QBCore = exports['qb-core']:GetCoreObject()
 
 
 
--- FINDIK SATMA
+--[[ FINDIK SATMA
 
 Citizen.CreateThread(function()
     while true do
@@ -55,7 +55,7 @@ function nutellasat()
             end
         end)
     end
-end
+end]]
 
 -- FINDIK TOPLA
 local sonfindik = 1
