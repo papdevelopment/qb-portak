@@ -4,6 +4,8 @@ fx_version 'adamant'
 
 game 'gta5'
 
+description 'Creator By pirates'
+
 this_is_a_map 'yes'
 
 shared_scripts {
